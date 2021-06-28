@@ -1,0 +1,38 @@
+
+		#textEditor{
+			margin: 0 auto;
+			width: 100%;
+			height: 100%;
+		}
+		#theRibbon{
+			border-bottom: none;
+			padding: 10px;
+			background-color: #28a745;
+			color:white;
+			border-radius:8px 8px 0px 0px;
+		}
+		#richTextArea{
+			border:2px solid #28a745;
+			height: 100%;
+			width: 100%;
+		}
+		iframe#theWYSIWYG{
+			height: 100%;
+			width: 100%;
+		}
+		#theRibbon>button{
+			border: none;
+			outline: none;
+			background-color: transparent;
+			color:white;
+			cursor: pointer;
+		}
+		#theRibbon>button{
+			background-color: rgb(20,90,70);
+			transition: all 0.3s linear 0s;
+		}
+		input[type="color"]{
+			border: none;
+			outline:none;
+			background-color: transparent;
+		}

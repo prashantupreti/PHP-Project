@@ -1,0 +1,58 @@
+.btn a{
+	color: #fff;
+}
+.btn a:hover{
+	color: #fff;
+	text-decoration: none;
+}
+
+.small-admin-notify{
+	color: red !important;
+}
+#information_admin{
+	padding: 10px;
+}
+#realNav{
+	background-color:rgba(0,0,0,0.5) !important;
+}
+.bg-sth{
+	background-image: url(../img/portfolio/fullsize/admin-login-bg.jpg);
+	background-size: cover;
+}
+.bg-sth-1{
+	background-image: url(../img/portfolio/fullsize/user-login-bg.jpg);
+	background-size: cover;
+}
+.bg-sth-2{
+	padding-top: 10rem;
+    padding-bottom: calc(10rem - 56px);
+    background-image: url(../img/portfolio/fullsize/blog-bg.jpg);
+    background-position: center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+.bg-sth-3{
+	background-image: url(../img/portfolio/fullsize/register-bg.jpg);
+	background-size: cover;
+}
+.bg-sth-4{
+	background-image: url(../img/portfolio/fullsize/error-bg.png);
+	background-size: cover;
+}
+.images{
+	height:100px;
+	width: 100px;
+}
+.flexfield{
+	display: flex;
+}
+.input-flex{
+	flex: 1;
+}
+.page{
+	height: 500px;
+	width:100%;
+	background-color: #fff;
+}
